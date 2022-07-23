@@ -7,4 +7,3 @@ for x in range (1,101):
 print("Vaidehi ")
 print("Bhagat")
 print("Vaidehi", end= " ")
-print("Bhagat")
