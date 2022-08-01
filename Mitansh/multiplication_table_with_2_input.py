@@ -13,7 +13,7 @@ u_i_2_int = int(user_input_2)
 #for v_range in range (1, 20)
 #v_range would be 1, 2, 3, 4, 5, 6, 7, 8, 9, 10...20
 
-for v_range in range (1, u_i_2_int + 1, 2):
+for v_range in range (1, u_i_2_int + 1, 2 ):
 #when v_range is 1 #answer = 4*1 #answer = 4
 #when v_range is 2 #answer = 4*2 #answer = 8
     answer = u_i_int * v_range

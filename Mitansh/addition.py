@@ -18,7 +18,7 @@ answer = str(answer)
 
 
 # creating a string variable to add the user_input1 and user_input2
-s_answer = (user_input1 + '+' + user_input2 + '='+ answer )
+s_answer = (user_input1 + ' + ' + user_input2 + ' = '+ answer )
 
 #printing
 print(s_answer)

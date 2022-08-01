@@ -18,10 +18,10 @@ age_2_str = str(age_2 )
 
 
 if user_input == first_name:
-    print(first_name + last_name1 + age_1_str + ' years old')
+    print(first_name + last_name1 + age_1_str + ' is years old')
 elif user_input == second_name:
-    print(second_name + last_name1 + age_1_str + ' years old')
+    print(second_name + last_name1 + age_1_str + ' is years old')
 elif user_input == third_name:
-    print(third_name + last_name2 + age_2_str + ' years old')
+    print(third_name + last_name2 + age_2_str + ' is years old')
 
 
